@@ -1,0 +1,17 @@
+com\upeu\producto\client\CatalogoClient.class
+com\upeu\producto\ProductoApplication.class
+com\upeu\producto\entity\Producto$ProductoBuilder.class
+com\upeu\producto\dto\ProductoResponse.class
+com\upeu\producto\mapper\ProductoMapper.class
+com\upeu\producto\dto\ProductoRequest$ProductoRequestBuilder.class
+com\upeu\producto\controller\GatewayInstanciasController.class
+com\upeu\producto\dto\ProductoResponse$ProductoResponseBuilder.class
+com\upeu\producto\entity\Producto.class
+com\upeu\producto\controller\ProductoController.class
+com\upeu\producto\repository\ProductoRepository.class
+com\upeu\producto\config\OpenApiConfig.class
+com\upeu\producto\dto\CategoriaDto$CategoriaDtoBuilder.class
+com\upeu\producto\service\impl\ProductoServiceImpl.class
+com\upeu\producto\dto\CategoriaDto.class
+com\upeu\producto\dto\ProductoRequest.class
+com\upeu\producto\service\ProductoService.class

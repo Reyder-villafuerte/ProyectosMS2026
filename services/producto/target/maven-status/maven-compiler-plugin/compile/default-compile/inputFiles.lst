@@ -1,0 +1,14 @@
+C:\ms\ProyectosMS2026\services\producto\src\main\java\com\upeu\producto\client\CatalogoClient.java
+C:\ms\ProyectosMS2026\services\producto\src\main\java\com\upeu\producto\config\OpenApiConfig.java
+C:\ms\ProyectosMS2026\services\producto\src\main\java\com\upeu\producto\controller\GatewayInstanciasController.java
+C:\ms\ProyectosMS2026\services\producto\src\main\java\com\upeu\producto\controller\ProductoController.java
+C:\ms\ProyectosMS2026\services\producto\src\main\java\com\upeu\producto\dto\CategoriaDto.java
+C:\ms\ProyectosMS2026\services\producto\src\main\java\com\upeu\producto\dto\ProductoRequest.java
+C:\ms\ProyectosMS2026\services\producto\src\main\java\com\upeu\producto\dto\ProductoResponse.java
+C:\ms\ProyectosMS2026\services\producto\src\main\java\com\upeu\producto\dto\StockAjusteRequest.java
+C:\ms\ProyectosMS2026\services\producto\src\main\java\com\upeu\producto\entity\Producto.java
+C:\ms\ProyectosMS2026\services\producto\src\main\java\com\upeu\producto\mapper\ProductoMapper.java
+C:\ms\ProyectosMS2026\services\producto\src\main\java\com\upeu\producto\ProductoApplication.java
+C:\ms\ProyectosMS2026\services\producto\src\main\java\com\upeu\producto\repository\ProductoRepository.java
+C:\ms\ProyectosMS2026\services\producto\src\main\java\com\upeu\producto\service\impl\ProductoServiceImpl.java
+C:\ms\ProyectosMS2026\services\producto\src\main\java\com\upeu\producto\service\ProductoService.java

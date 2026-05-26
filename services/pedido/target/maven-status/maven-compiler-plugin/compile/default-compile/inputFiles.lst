@@ -1,0 +1,17 @@
+C:\ms\ProyectosMS2026\services\pedido\src\main\java\com\upeu\pedido\client\ProductoClient.java
+C:\ms\ProyectosMS2026\services\pedido\src\main\java\com\upeu\pedido\config\OpenApiConfig.java
+C:\ms\ProyectosMS2026\services\pedido\src\main\java\com\upeu\pedido\controller\PedidoController.java
+C:\ms\ProyectosMS2026\services\pedido\src\main\java\com\upeu\pedido\dto\ActualizarEstadoPedidoRequest.java
+C:\ms\ProyectosMS2026\services\pedido\src\main\java\com\upeu\pedido\dto\PedidoDetalleRequest.java
+C:\ms\ProyectosMS2026\services\pedido\src\main\java\com\upeu\pedido\dto\PedidoDetalleResponse.java
+C:\ms\ProyectosMS2026\services\pedido\src\main\java\com\upeu\pedido\dto\PedidoRequest.java
+C:\ms\ProyectosMS2026\services\pedido\src\main\java\com\upeu\pedido\dto\PedidoResponse.java
+C:\ms\ProyectosMS2026\services\pedido\src\main\java\com\upeu\pedido\dto\ProductoDto.java
+C:\ms\ProyectosMS2026\services\pedido\src\main\java\com\upeu\pedido\dto\StockAjusteRequest.java
+C:\ms\ProyectosMS2026\services\pedido\src\main\java\com\upeu\pedido\entity\EstadoPedido.java
+C:\ms\ProyectosMS2026\services\pedido\src\main\java\com\upeu\pedido\entity\Pedido.java
+C:\ms\ProyectosMS2026\services\pedido\src\main\java\com\upeu\pedido\entity\PedidoDetalle.java
+C:\ms\ProyectosMS2026\services\pedido\src\main\java\com\upeu\pedido\PedidoApplication.java
+C:\ms\ProyectosMS2026\services\pedido\src\main\java\com\upeu\pedido\repository\PedidoRepository.java
+C:\ms\ProyectosMS2026\services\pedido\src\main\java\com\upeu\pedido\service\impl\PedidoServiceImpl.java
+C:\ms\ProyectosMS2026\services\pedido\src\main\java\com\upeu\pedido\service\PedidoService.java

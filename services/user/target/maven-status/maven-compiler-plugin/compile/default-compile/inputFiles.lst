@@ -1,0 +1,9 @@
+C:\ms\ProyectosMS2026\services\user\src\main\java\com\upeu\user\domain\UserEntity.java
+C:\ms\ProyectosMS2026\services\user\src\main\java\com\upeu\user\repo\UserRepository.java
+C:\ms\ProyectosMS2026\services\user\src\main\java\com\upeu\user\service\UserService.java
+C:\ms\ProyectosMS2026\services\user\src\main\java\com\upeu\user\UserApplication.java
+C:\ms\ProyectosMS2026\services\user\src\main\java\com\upeu\user\web\dto\UserCreateRequest.java
+C:\ms\ProyectosMS2026\services\user\src\main\java\com\upeu\user\web\dto\UserResponse.java
+C:\ms\ProyectosMS2026\services\user\src\main\java\com\upeu\user\web\dto\UserUpdateRequest.java
+C:\ms\ProyectosMS2026\services\user\src\main\java\com\upeu\user\web\UserController.java
+C:\ms\ProyectosMS2026\services\user\src\main\java\com\upeu\user\web\UserInstanceController.java
